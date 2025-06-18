@@ -1,0 +1,10 @@
+# 忽略构建目录
+build/
+dist/
+
+# PyInstaller 规格文件（如不想保留）
+*.spec
+
+# Python 缓存
+__pycache__/
+*.pyc
